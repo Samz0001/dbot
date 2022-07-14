@@ -1,6 +1,8 @@
-const Discord = require("discord.js")
+// Load environment variables from .env file
 require("dotenv").config()
-const TOKEN = "OTk2NzgyMzA0ODU5MDA5MDc1.GWns_h.dY3_SyP1cxfMkP2PdiDJ9U-1KbjCVfLrT0l05o"
+
+const Discord = require("discord.js")
+
 
 const client = new Discord.Client({
     intents: [
