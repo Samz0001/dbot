@@ -18,6 +18,10 @@ module.exports = {
             .setCustomId("role-998597259333750886")
             .setStyle("PRIMARY")
             .setLabel("NOOB"),
+          new MessageButton()
+            .setCustomId("role-998923775544410232")
+            .setStyle("PRIMARY")
+            .setLabel("NOOB-2"),
         ]),
       ],
     });

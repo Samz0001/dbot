@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sishere23/dbot.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sishere23/dbot/issues"
+  },
+  "homepage": "https://github.com/sishere23/dbot#readme",
   "dependencies": {
     "canvas": "^2.9.3",
-    "discord.js": "^13.8.1",
+    "discord.js": "^13.0.4",
     "dotenv": "^16.0.1"
   }
 }
